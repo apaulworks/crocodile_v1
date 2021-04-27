@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Crocodile_v1.PcbDoc]
+   Generated File[Crocodile_v1.GTP]
+   Generated File[Crocodile_v1.GTS]
+   Generated File[Crocodile_v1.GTL]
+   Generated File[Crocodile_v1.GBL]
+   Generated File[Crocodile_v1.GBS]
+   Generated File[Crocodile_v1.GBP]
+   Generated File[Crocodile_v1.GM1]
+   Generated File[Crocodile_v1.GPT]
+   Generated File[Crocodile_v1.GPB]
+   Generated File[Crocodile_v1.RUL]
+   Generated File[Crocodile_v1.EXTREP]
+   Generated File[Crocodile_v1.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 12:55:02 AM On 4/27/2021

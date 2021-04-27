@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Crocodile_v1.PcbDoc]
+   Generated File[Crocodile_v1.RUL]
+   Generated File[Crocodile_v1.EXTREP]
+   Generated File[Crocodile_v1.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:43:27 AM On 4/27/2021
